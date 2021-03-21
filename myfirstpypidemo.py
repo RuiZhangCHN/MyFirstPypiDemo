@@ -1,9 +1,11 @@
-__version__ = '0.1.0'
+__version__ = '0.2.0'
 
 def print_hello():
     print('hello world')
 
-if __name__ == '__main__':
-    main()
+def print_hello_v2():
+    print('hello world v0.2.0')
 
-    
+if __name__ == '__main__':
+    pass
+

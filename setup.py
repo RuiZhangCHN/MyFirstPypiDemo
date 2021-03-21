@@ -18,7 +18,7 @@ URL = 'https://github.com/RuiZhangCHN/MyFirstPypiDemo'
 EMAIL = 'zhang1rui4@foxmail.com'
 AUTHOR = 'RuiZhangCHN'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.1.0'
+VERSION = '0.2.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
