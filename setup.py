@@ -18,7 +18,7 @@ URL = 'https://github.com/RuiZhangCHN/MyFirstPypiDemo'
 EMAIL = 'zhang1rui4@foxmail.com'
 AUTHOR = 'RuiZhangCHN'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.3.0'
+VERSION = '0.3.1'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
@@ -105,7 +105,7 @@ setup(
     url=URL,
     # packages=find_packages(exclude=["tests", "*.tests", "*.tests.*", "tests.*"]),
     # If your package is a single module, use this instead of 'packages':
-    py_modules=['myfirstpypidemo'],
+    py_modules=['myfirstpypidemo','withaverylongpackagename'],
 
     # entry_points={
     #     'console_scripts': ['mycli=mymodule:cli'],
